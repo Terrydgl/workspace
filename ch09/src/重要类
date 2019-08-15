@@ -1,0 +1,26 @@
+Collection(接口)
+   |
+   |--List(接口)
+   |	|
+   |	|--ArrayList
+   |	|
+   |	|--LinkedList
+   |	|
+   |	|--Vector
+   |
+   |
+   |
+   |--Set(接口)
+       |
+       |--HashSet
+       |
+       |--TreeSet
+       
+       
+Map(接口)
+ |
+ |--HashMap
+ |
+ |--TreeMap
+ |
+ |--LinkedHashMap
